@@ -10,7 +10,7 @@
 
 - 📝 Check my articles on [www.hassamali.dev/blogs](www.hassamali.dev/blogs)
 
-- 💬 Ask me about **MERN Stack, Kotlin, React Native & Flutter**
+- 💬 Ask me about anything [**Click here**](https://github.com/hassamali898/hassamali898/issues)
 
 - 📫 Reach me at **hassamali898@gmail.com**
 
