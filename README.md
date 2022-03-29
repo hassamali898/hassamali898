@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [www.hassamali.dev](www.hassamali.dev)
 
-- 📝 I regularly write articles on [www.hassamali.dev/blogs](www.hassamali.dev/blogs)
+- 📝 Check my articles on [www.hassamali.dev/blogs](www.hassamali.dev/blogs)
 
 - 💬 Ask me about **MERN Stack, Kotlin & Flutter**
 
-- 📫 How to reach me **hassamali898@gmail.com**
+- 📫 Reach me at **hassamali898@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
