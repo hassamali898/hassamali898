@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassam Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="400" />
+
 - 🔭 I’m currently working on **Fluffy (Flutter Project)**
 
 - 🌱 I’m currently learning **NextJs**
