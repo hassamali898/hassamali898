@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [www.hassamali.me](www.hassamali.me)
+- 👨‍💻 All of my projects are available at [www.hassamali.me](https://www.hassamali.me)
 
-- 📝 Check my articles on [www.hassamali.me/blogs](www.hassamali.me/blogs)
+- 📝 Check my articles on [www.hassamali.me/blogs](https://www.hassamali.me/blogs)
 
 - 💬 Ask me about anything [**here**](https://github.com/hassamali898/hassamali898/issues)
 
