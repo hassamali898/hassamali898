@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Fluffy (Flutter Project)**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [www.hassamali.me](https://www.hassamali.me)
 
