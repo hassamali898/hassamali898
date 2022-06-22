@@ -1,10 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/> , I'm Hassam Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<table style="border:0px solid white; width:100%;">
-  <tr style="border: 0px;">
-    <td style="border: 0px;">
-      
+<img align="right"  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="400" />
+
 - 🔭 I’m currently working on **Fluffy (Flutter Project)** 
 
 - 🌱 I’m currently learning **Next Js**
@@ -16,12 +14,7 @@
 - 💬 Ask me about anything [**here**](https://github.com/hassamali898/hassamali898/issues)
 
 - 📫 Reach me at **hassamali898@gmail.com**
-      </td>
-    <td style="border: 0px;">
-        <p align="right"><img  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="400" /></p>
-    </td>
-  </tr>
-</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hassam-ali-31b606156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassamali898" height="30" width="40" /></a>
