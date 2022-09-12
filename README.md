@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/> , I'm Hassam Ali</h1>
-<h3 align="center">A passionate about frontend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <img align="right"  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="400" />
 
