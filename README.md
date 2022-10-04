@@ -3,9 +3,9 @@
 
 <img align="right"  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="400" />
 
-- 🔭 I’m currently working on **Fluffy (Flutter Project)** 
+- 🔭 I’m currently working on **Sequels (React Project)** 
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [www.hassamali.me](https://www.hassamali.me)
 
