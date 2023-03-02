@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sequels (React Project)** 
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Python Scrapy**
 
 - 👨‍💻 All of my projects are available at [www.hassamali.me](https://www.hassamali.me)
 
