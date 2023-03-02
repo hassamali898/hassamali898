@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/> , I'm Hassam Ali</h1>
-<h3 align="center">A passionate Software Engenieer</h3>
+<h3 align="center">I am Passionate About &nbsp;<span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3977F7&vCenter=true&width=435&height=20&lines=Mobile+Application+Development;Web+Application+Development;UI+%2F+UX+Designing" alt="Typing SVG" /></span>
+</h3>
 
 <img align="right"  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="400" />
 
