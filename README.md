@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Python Scrapy**
 
-- 👨‍💻 All of my projects are available at [www.hassamali.me](https://www.hassamali.me)
+- 👨‍💻 All of my projects are available at [www.mhassam.me](https://www.mhassam.me)
 
-- 📝 Check my articles on [www.hassamali.me/blogs](https://www.hassamali.me/blogs)
+- 📝 Check my articles on [www.hassamali.me/blogs](https://www.mhassam.me/blogs)
 
 - 💬 Ask me about anything [**here**](https://github.com/hassamali898/hassamali898/issues)
 
