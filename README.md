@@ -4,9 +4,9 @@
 
 <img align="right"  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="400" />
 
-- 🔭 I’m currently working on **Sequels (React Project)** 
+- 🔭 I’m currently working on **Personal Site** 
 
-- 🌱 I’m currently learning **Python Scrapy**
+- 🌱 I’m currently learning **Nextjs 14**
 
 - 👨‍💻 All of my projects are available at [www.mhassam.me](https://www.mhassam.me)
 
